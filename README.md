@@ -49,8 +49,8 @@ Setup Instructions
 
 Clone the repository:
 
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/CodeWithZohaib/Care247.git
+cd care247
 
 
 Install dependencies:
